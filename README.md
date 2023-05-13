@@ -7,5 +7,5 @@ Tools used : HTML , CSS , JAVASCRIPT , BOOTSTRAP , PHP , MySQL , XAMPP , APACHE 
 
 Project Demo Video:
 
-https://github.com/Techie03/MREC_BUSPASS/assets/96654142/10a8c3ae-f328-41a2-b314-d15c2a2d0a92
+
 
