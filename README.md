@@ -7,11 +7,10 @@ Tools used : HTML , CSS , JAVASCRIPT , BOOTSTRAP , PHP , MySQL , XAMPP , APACHE 
 
 **Project Demo Video:**
 
-
 [VIEW](https://drive.google.com/file/d/16kHAYv4SeQBQLCMHqKLBF_lwpVpAfASw/view?usp=sharing)
 
 **HERE IS THE FILE FOR XAMPP and phpmyadmin**
 
-[XAMPP FILE](https://sourceforge.net/projects/xampp/files/latest/download)
+[DOWNLOAD XAMPP FILE](https://sourceforge.net/projects/xampp/files/latest/download)
 
-[PHPMYADMIN](http://localhost/phpmyadmin/index.php?route=/)
+[DOWNLOAD PHPMYADMIN](https://files.phpmyadmin.net/phpMyAdmin/5.2.1/phpMyAdmin-5.2.1-all-languages.zip)
