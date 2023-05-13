@@ -9,6 +9,27 @@ Tools used : HTML , CSS , JAVASCRIPT , BOOTSTRAP , PHP , MySQL , XAMPP , APACHE 
 
 ![image](https://github.com/Techie03/MREC_BUSPASS/assets/96654142/022f27e7-51c6-4e96-ae2c-ce5623a7c40c)
 
+**CONTACT US**
+
+![image](https://github.com/Techie03/MREC_BUSPASS/assets/96654142/ed708fd0-c558-42eb-82c7-d116d5715abe)
+
+**VIEW PASS**
+
+![image](https://github.com/Techie03/MREC_BUSPASS/assets/96654142/8921746d-a829-4cbc-9e65-2c21f4731319)
+
+**ADMIN LOGIN PAGE AND INSIDE OVERVIEW**
+
+![image](https://github.com/Techie03/MREC_BUSPASS/assets/96654142/de3b28b5-939f-45ea-b4b5-a920d51b8930)
+
+![image](https://github.com/Techie03/MREC_BUSPASS/assets/96654142/b1e4b374-723b-4199-8f3e-f504b94252c3)
+
+![image](https://github.com/Techie03/MREC_BUSPASS/assets/96654142/77272ec6-cd59-4e83-8fc8-26b04bcd4dc5)
+
+
+
+
+
+
 
 
 [BUS PASS PPT](https://github.com/Techie03/MREC_BUSPASS/raw/main/BUS%20PASS.pptx)
