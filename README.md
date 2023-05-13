@@ -5,6 +5,11 @@ Tools used : HTML , CSS , JAVASCRIPT , BOOTSTRAP , PHP , MySQL , XAMPP , APACHE 
 
 ![image](https://github.com/Techie03/MREC_BUSPASS/assets/96654142/0bcbfd05-0c18-49c7-a7e7-c38c8c0d54a5)
 
+**ABOUT**
+
+![image](https://github.com/Techie03/MREC_BUSPASS/assets/96654142/022f27e7-51c6-4e96-ae2c-ce5623a7c40c)
+
+
 
 [BUS PASS PPT](https://github.com/Techie03/MREC_BUSPASS/raw/main/BUS%20PASS.pptx)
 
