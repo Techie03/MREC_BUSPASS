@@ -42,6 +42,6 @@ Tools used : HTML , CSS , JAVASCRIPT , BOOTSTRAP , PHP , MySQL , XAMPP , APACHE 
 
 **HERE IS THE FILE FOR XAMPP and phpmyadmin**
 
-[DOWNLOAD XAMPP FILE](https://sourceforge.net/projects/xampp/files/latest/download)
+[DOWNLOAD XAMPP FILE FOR WINDOWS](https://sourceforge.net/projects/xampp/files/latest/download)
 
-[DOWNLOAD PHPMYADMIN](https://files.phpmyadmin.net/phpMyAdmin/5.2.1/phpMyAdmin-5.2.1-all-languages.zip)
+[DOWNLOAD PHPMYADMIN FOR WINDOWS](https://files.phpmyadmin.net/phpMyAdmin/5.2.1/phpMyAdmin-5.2.1-all-languages.zip)
